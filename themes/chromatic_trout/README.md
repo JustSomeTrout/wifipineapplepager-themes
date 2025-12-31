@@ -95,12 +95,6 @@
 
 <h3 align="center">Dialog Backgrounds</h3>
 <p align="center">
-<img width="398" height="220" alt="alert_dialog_bg_term" src="https://github.com/user-attachments/assets/bdd51399-13e2-4b49-a8f7-6c104cd41c4a" />
-&nbsp;&nbsp;
-<img width="429" height="222" alt="alert_dialog_bg_term_blue" src="https://github.com/user-attachments/assets/1bbcc816-1c65-4ecd-b942-ef8a75394637" />
-&nbsp;&nbsp;
-<img width="429" height="222" alt="alert_dialog_bg_term_error" src="https://github.com/user-attachments/assets/2207e3a1-6cbd-4969-9076-6c15b1507a27" />
-<img width="429" height="222" alt="alert_dialog_bg_term_warning" src="https://github.com/user-attachments/assets/25d3a686-4b34-44a5-9eb8-9aa2e2a6256f" />
-<img width="429" height="222" alt="confirmation_dialog_bg_term" src="https://github.com/user-attachments/assets/775ab01b-a260-497e-baac-cb197bed495b" />
+<img width="429" height="222" alt="Dialog Backgrounds" src="https://github.com/user-attachments/assets/b9e3ac04-3213-45e2-bd0e-db37d8947fad" />
 </p>
 <p align="center"><em>Custom dialog backgrounds.</em></p>
