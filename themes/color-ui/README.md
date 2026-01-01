@@ -8,7 +8,6 @@
 ### Demo Video
 [Watch on YouTube](https://youtu.be/u66qg6Bg-14)
 
-https://youtu.be/u66qg6Bg-14
 
 ## Open theme.json and scroll down to the color_palette section. Here you will be able to edit most the the theme text and image colors. Then just push the theme.json file over to the pager and restart the server from developer menu.
 
