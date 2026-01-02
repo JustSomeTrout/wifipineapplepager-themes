@@ -35,8 +35,8 @@
             },
             {
               "variable_name": "$_UPTIME",
-              "x": 95,
-              "y": 67,
+              "x": 93,
+              "y": 65,
               "string_template": {
                 "text_size": "medium",
                 "text_color_palette": "cyan",
@@ -47,8 +47,8 @@
             },
             {
               "variable_name": "$_BATTERY_INFO",
-              "x": 110,
-              "y": 130,
+              "x": 112,
+              "y": 118,
               "string_template": {
                 "text_size": "medium",
                 "text_color_palette": "cyan",
@@ -59,8 +59,8 @@
             },
             {
               "variable_name": "$_TEMP",
-              "x": 150,
-              "y": 180,
+              "x": 155,
+              "y": 170,
               "string_template": {
                 "text_size": "medium",
                 "text_color_palette": "cyan",
@@ -85,8 +85,8 @@
             },
             {
               "variable_name": "$_STORAGE",
-              "x": 350,
-              "y": 70,
+              "x": 177,
+              "y": 56,
               "string_template": {
                 "text_size": "medium",
                 "text_color_palette": "cyan",
@@ -97,8 +97,8 @@
             },
             {
               "variable_name": "$_WLAN0CLI_IP",
-              "x": 350,
-              "y": 100,
+              "x": 90,
+              "y": 109,
               "string_template": {
                 "text_size": "medium",
                 "text_color_palette": "cyan",
@@ -109,8 +109,8 @@
             },
             {
               "variable_name": "$_LOOT",
-              "x": 350,
-              "y": 130,
+              "x": 79,
+              "y": 163,
               "string_template": {
                 "text_size": "medium",
                 "text_color_palette": "cyan",
@@ -132,10 +132,22 @@
               "x": 0,
               "y": 0
             },
+	    {
+              "variable_name": "$_LOOT",
+              "x": 79,
+              "y": 72,
+              "string_template": {
+                "text_size": "medium",
+                "text_color_palette": "cyan",
+                "max_chars": 12,
+                "wrap_text": false,
+                "max_lines": 1
+              }
+            },
             {
               "variable_name": "$_PACKAGES",
-              "x": 350,
-              "y": 70,
+              "x": 122,
+              "y": 125,
               "string_template": {
                 "text_size": "medium",
                 "text_color_palette": "cyan",
@@ -146,8 +158,8 @@
             },
             {
               "variable_name": "$_HANDSHAKES",
-              "x": 350,
-              "y": 100,
+              "x": 146,
+              "y": 177,
               "string_template": {
                 "text_size": "medium",
                 "text_color_palette": "cyan",
